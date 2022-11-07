@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td>HellSinger</td>
-        <td>Em Processo</td>
+        <td>Finalizado</td>
     </tr>
     <tr>
         <td>-</td>
